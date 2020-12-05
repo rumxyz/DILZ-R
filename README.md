@@ -3,7 +3,7 @@
     ❤DILZ-R❤
 </h1>
 <h4 align="center">
-  🇮🇩TRICKER INDONESIA🇮🇩
+  Jangan Lupa Istigfar
 </h4>
 <p align="center">
 <a href="#"><img title="Author by Rum" src="https://img.shields.io/badge/Coded%20By-RumDelvino-green?"></a>
