@@ -54,7 +54,7 @@
 pkg update && pkg upgrade
 pkg install python2
 pkg install git
-https://github.com/rumxyz/DILZ-R
+git clone https://github.com/rumxyz/DILZ-R
 ```
 ### Run this script
 ```
