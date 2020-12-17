@@ -65,5 +65,5 @@ python2 DILZ-R.py
 ### MY SOCIAL MEDIA
 * [<img alt="rumxyz's Github" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /> <b>Github</b>](https://github.com/rumxyz/)<br />
 * [<img alt="rumxyz's Facebook" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /> <b>Facebook</b>](https://www.facebook.com/RUMXYZ5X)<br />
-* [<img alt="rumxyz's Whatsapp" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" /> <b>WhatsApp</b>](https://wa.me/6285695037877?text=Asalamualaikum+gCantik)<br />
+* [<img alt="rumxyz's Whatsapp" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" /> <b>WhatsApp</b>](https://wa.me/6285695037877?text=Asalamualaikum+Cantik)<br />
 * [<img alt="rumxyz's Instagram" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> <b>Instagram</b>](https://Instagram.com/_rumxyz)<br />
